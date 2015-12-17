@@ -8,7 +8,7 @@ __TL;DR: Hopefully, you can use my succeses and mistakes to help guide your jour
 
 - [Chronicles](#chronicles)
   1. [Why](#why)
-  2. [History](#history)
+  2. [My background](#my background)
   3. [Bootcamp](#bootcamp)
   4. [Learning after bootcamp](#learning after bootcamp)
   5. [Projects](#projects)
