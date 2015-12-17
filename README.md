@@ -16,7 +16,7 @@ __TL;DR: Hopefully, you can use my succeses and mistakes to help guide your jour
     - [bella beauty co. site](#bella beauty co. site)
     - [us20somethings blog](#us20somethings blog)
 - [Web Development](#web development)
-  - [Core: HTML,CSS and Javascript](#core: html,css and javascript)
+  - [HTML/CSS and Javascript](#html/css and javascript)
   - [MEAN stack](#mean stack)
   - [Design](#design)
 - [Extras](#extras)
