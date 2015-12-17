@@ -1,7 +1,8 @@
 # The Road to Junior Developer :grin:
 ###### My chronicles of eventually getting hired as junior web developer.
 
-I'm the type of person who spends way too much time finding the most time efficient way to comprehensively learn something. I even obsess over what to learn in the first place and endlessly questioning that decision after the fact. I hate wasting my time. This usually ends up horribly backfiring since I end up wasting more time researching options than actually learning. Hopefully, you can use my succeses and mistakes to help guide your journey as a developer. After all the painstaking obsessing over what to learn, there will still be some not optimal decisions and hindsight is ~20/20.
+I'm the type of person who spends way too much time finding the most time efficient way to comprehensively learn something. I even obsess over what to learn in the first place and endlessly questioning that decision after the fact. I hate wasting my time. This usually ends up horribly backfiring since I end up wasting more time researching options than actually learning. After all the painstaking obsessing over what to learn, there will still be some not optimal decisions and hindsight is almost 20/20.  
+__TL;DR: Hopefully, you can use my succeses and mistakes to help guide your journey as a developer.__
 
 ## Table of contents
 
