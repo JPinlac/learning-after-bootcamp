@@ -25,6 +25,10 @@ __TL;DR: Hopefully, you can use my succeses and mistakes to help guide your jour
   - [Courses](#courses)
   - [Book list](#book list)
   - [Learning and productivity tricks](#learning and productivity tricks)
+  - [Tools and technologies](#tools and technologies)	
+    - [Technologies](#technologies)
+    - [Dev environment](#dev environment)
+    - [Dev ops](#dev ops)
   - [Log](#log)
 
 ## Chronicles
