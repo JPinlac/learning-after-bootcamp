@@ -72,6 +72,8 @@ The best resource on learning javascript. It's less opinionated and more up to d
 [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/)  
 Have you ever had to spend an all nighter cramming information in your head trying to get ready for a midterm? Fun stuff right? The best part is afterwards you retain like 0% of the information, so you get to relearn everything again for your cumulative final! This course will help combat this. It let's you know how your brain works, so you can effectively learn and commit information to memory and avoid procrastination. Some of the techniques are time-consuming, but might as well get it right the first time rather than having to relearn it. It's a short course as well and they have them going on all the time.
 
+This page itself is partly inspired by some of the concepts they go over. Keeping this log requires me to write down in my own words what I've learned. This helps commit things to long-term memory and makes it easier to review material.
+
 **Bonus ** [Why Procrastinators Procratinate](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)  
 Let me preface with how amazing this blog is. I really recommend the articles on the Fermi Paradox, A.I., and his four part article on Elon Musk. Life changing stuff.
 
