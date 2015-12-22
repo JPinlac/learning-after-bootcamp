@@ -4,7 +4,7 @@
 I'm the type of person who spends way too much time finding the most time efficient way to comprehensively learn something. I even obsess over what to learn in the first place and endlessly question that decision after the fact. I hate wasting my time. This usually ends up horribly backfiring and I end up wasting more time researching options than actually learning. Even after all this, there will always be some nonoptimal decisions and hindsight is still not quite 20/20. So I'm hoping some of you can use this guide to save some time on deciding what to do and actually do things.   
 __TL;DR: Hopefully, you can use my succeses and mistakes to help guide your journey as a developer.__
 
-*The format of the upcoming learning sections will be peculiar. It will be a living section with me explaining what I'm using to learn and highlighting some cool things I came across. So a lot of this information will be pretty fragmented and not in chronological order. You can track my progress on the [log here](#log)*
+*The format of the upcoming learning sections will be peculiar. It will be a living section with me explaining what I'm using to learn and highlighting some cool things I came across. So a lot of this information will be fragmented and not in chronological order. You can track my progress in order in the [log here](#log).*
 
 ## Table of contents
 
@@ -47,13 +47,13 @@ I'll also be going through the MOOC (massive open onlince course) [HTML5 Part 1:
 
 I plan on roughly following the guide that is here [Open Source Society](https://github.com/open-source-society/computer-science) and supplementing with other materials than I think will be useful.
 
-##### [HTML5 Part 1: HTML5 Coding Essentials and Best Practices](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x)  
+[HTML5 Part 1: HTML5 Coding Essentials and Best Practices](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x)  
 Excellent course on web accesibility and html5 features by WC3. I completed a couple weeks of this before things were getting too intense during the bootcamp. Unfortunately, this course isn't active, but all all the information is available in the archive.
 
-##### [Harvard CS50x: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)  
+[Harvard CS50x: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)  
 This course is self-paced and looks to offer a good overview on programming concepts. Enrollment starts on Jan 1st, 2016 so this is a good time to start.
 
-##### [MIT 6.0.0.1x: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6#!)  
+[MIT 6.0.0.1x: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6#!)  
 This course starts January 13th, 2016. I also took this course last year and while I did earn a certificate, I did the bare minimum. Bootcamp was getting time consuming at the time and I wasn't able to delve into the harder concepts. I'm pretty excited about taking this course again. It's very algorithm heavy and covers basic computer science concepts loops all the way to recursion, data structures, Big-O complexity, and testing. I took EECS 280 at the University of Michigan and I'm pretty impressed on how much material and more is covered in this MITx course.
 
 ### Log
