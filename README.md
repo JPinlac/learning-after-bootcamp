@@ -30,6 +30,7 @@ __TL;DR: Hopefully, you can use my succeses and mistakes to help guide your jour
     - [Dev Environment](#dev-environment)
     - [Dev Ops](#dev-ops)
   - [Log](#log)
+- [License](#license)
 
 <br><br>
 
@@ -151,5 +152,5 @@ For hosting, all my sites are handled by nginx which is great for my static site
 Decided to read Duckett's html book and go throught the WC3 MOOC on html5.
 
 
-## License  
+### License  
 Creative Commons Attribution License (do whatever, just attribute me) http://creativecommons.org/licenses/by/2.0/
