@@ -4,7 +4,7 @@
 I'm the type of person who spends way too much time finding the most time efficient way to comprehensively learn something. I even obsess over what to learn in the first place and endlessly question that decision after the fact. I hate wasting my time. This usually ends up horribly backfiring and I end up wasting more time researching options than actually learning. Even after all this, there will always be some nonoptimal decisions and hindsight is still not quite 20/20. So I'm hoping some of you can use this guide to save some time on deciding what to do and actually do things.   
 __TL;DR: Hopefully, you can use my succeses and mistakes to help guide your journey as a developer.__
 
-*The format of the upcoming learning sections will be peculiar. It will be a living section with me explaining what I'm using to learn and highlighting some cool things I came across. So a lot of this information will be fragmented and not in chronological order. You can track my progress in order in the [log here](#log).*
+*The format of the upcoming learning sections will be peculiar. It will be a living document with me explaining what I'm using to learn and highlighting some cool things I came across. So a lot of this information will be fragmented and not in chronological order. You can track my progress in order in the [log here](#log).*
 
 ## Table of contents
 
@@ -24,6 +24,7 @@ __TL;DR: Hopefully, you can use my succeses and mistakes to help guide your jour
 - [Extras](#extras)
   - [Book list](#book list)
   - [Courses](#courses)
+  - [Learning and productivity tricks](#learning and productivity tricks)
   - [Log](#log)
 
 ## Chronicles
@@ -55,6 +56,14 @@ This course is self-paced and looks to offer a good overview on programming conc
 
 [MIT 6.0.0.1x: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6#!)  
 This course starts January 13th, 2016. I also took this course last year and while I did earn a certificate, I did the bare minimum. Bootcamp was getting time consuming at the time and I wasn't able to delve into the harder concepts. I'm pretty excited about taking this course again. It's very algorithm heavy and covers basic computer science concepts loops all the way to recursion, data structures, Big-O complexity, and testing. I took EECS 280 at the University of Michigan and I'm pretty impressed on how much material and more is covered in this MITx course.
+
+### Learning and productivity tricks
+
+[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/)  
+Have you ever had to spend an all nighter cramming information in your head trying to get ready for a midterm? Fun stuff right? The best part is afterwards you retain like 0% of the information, so you get to relearn everything again for your cumulative final! This course will help combat this. It let's you know how your brain works, so you can effectively learn and commit information to memory and avoid procrastination. Some of the techniques are time-consuming, but might as well get it right the first time rather than having to relearn it.
+
+*Bonus* [Why Procrastinators Procratinate](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)  
+Let me preface with how amazing this blog is. I really recommend the articles on the Fermi Paradox, A.I., and his four part article on Elon Musk. Life changing stuff.
 
 ### Log
 12-22  
