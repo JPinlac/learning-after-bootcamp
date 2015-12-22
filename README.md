@@ -4,7 +4,7 @@
 I'm the type of person who spends way too much time finding the most time efficient way to comprehensively learn something. I even obsess over what to learn in the first place and endlessly question that decision after the fact. I hate wasting my time. This usually ends up horribly backfiring and I end up wasting more time researching options than actually learning. Even after all this, there will always be some nonoptimal decisions and hindsight is still not quite 20/20. So I'm hoping some of you can use this guide to save some time on deciding what to do and actually do things.   
 __TL;DR: Hopefully, you can use my succeses and mistakes to help guide your journey as a developer.__
 
-*The format of the upcoming learning sections will be peculiar. It will be a living document with me explaining what I'm using to learn and highlighting some cool things I came across. So a lot of this information will be fragmented and not in chronological order. You can track my progress in order in the [log here](#log).*
+*The format of the upcoming learning sections will be peculiar. It will be a living document with me explaining what I'm using to learn and highlighting some cool things I came across. So a lot of this information will be fragmented and not in chronological order. You can track my progress in chronological order in the [log here](#log).*
 
 ## Table of contents
 
@@ -65,10 +65,10 @@ This course starts January 13th, 2016. I also took this course last year and whi
 
 ### Book List
 
-[*HTML and CSS: Design and Build Websites by John Duckett*] (http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189) 
+[*HTML and CSS: Design and Build Websites by John Duckett*] (http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)  
 Wonderfully illustrated book that's perfect for beginners. It's a quick read.
 
-[Eloquent Javascript](http://eloquentjavascript.net/)  
+[*Eloquent Javascript*](http://eloquentjavascript.net/)  
 The best resource on learning javascript. It's less opinionated and more up to date than Crockford's *Javascript: The Good Parts.* It's online, it's free, what's not to like. Can't wait to get into it.
 
 ### Learning and productivity tricks
