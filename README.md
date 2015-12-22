@@ -10,32 +10,32 @@ __TL;DR: Hopefully, you can use my succeses and mistakes to help guide your jour
 
 - [Chronicles](#chronicles)
   1. [Why](#why)
-  2. [My background](#my background)
+  2. [My background](#my-background)
   3. [Bootcamp](#bootcamp)
-  4. [Learning after bootcamp](#learning after bootcamp)
+  4. [Learning after bootcamp](#learning-after-bootcamp)
     - [HTML/CSS](##html/css)
     - [Javascript](#javascript)
     - [MEAN stack](#mean stack)
     - [Design](#design)
   5. [Projects](#projects)
-    - [Portfolio site](#portfolio site)
-    - [bella beauty co. site](#bella beauty co. site)
-    - [us20somethings blog](#us20somethings blog)
+    - [Portfolio site](#portfolio-site)
+    - [bella beauty co. site](#bella-beauty-co.-site)
+    - [us20somethings blog](#us20somethings-blog)
 - [Extras](#extras)
   - [Courses](#courses)
-  - [Book list](#book list)
-  - [Learning and productivity tricks](#learning and productivity tricks)
-  - [Tools and technologies](#tools and technologies)	
+  - [Book list](#book-list)
+  - [Learning and productivity tricks](#learning-and-productivity-tricks)
+  - [Tools and technologies](#tools-and-technologies)	
     - [Technologies](#technologies)
-    - [Dev environment](#dev environment)
-    - [Dev ops](#dev ops)
+    - [Dev environment](#dev-environment)
+    - [Dev ops](#dev-ops)
   - [Log](#log)
 
 ## Chronicles
 #### Why
 #### My Background
 #### BootCamp
-#### Learning after bootcamp
+#### Learning After Bootcamp
 
 There seems to be a recurring theme with coding. __The more you learn the less you think you know.__ This was never more apparent than after the bootcamp. We learned about all the technologies we could use to make a decent web application, but working 40 hours a week and cramming all that info in about 10 weeks didn't allow for in-depth learning. There's a lot nuances and depth in all the code that we have to familiarize ourselves with. __So, it's back to the basics.__ 
 
@@ -63,7 +63,7 @@ This course is self-paced and looks to offer a good overview on programming conc
 [MIT 6.0.0.1x: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6#!)  
 This course starts January 13th, 2016. I also took this course last year and while I did earn a certificate, I did the bare minimum. Bootcamp was getting time consuming at the time and I wasn't able to delve into the harder concepts. I'm pretty excited about taking this course again. It's very algorithm heavy and covers basic computer science concepts loops all the way to recursion, data structures, Big-O complexity, and testing. I took EECS 280 at the University of Michigan and I'm pretty impressed on how much material and more is covered in this MITx course.
 
-### Book list
+### Book List
 
 [*HTML and CSS: Design and Build Websites by John Duckett*] (http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)  
 Wonderfully illustrated book that's perfect for beginners. It's a quick read.
@@ -71,7 +71,7 @@ Wonderfully illustrated book that's perfect for beginners. It's a quick read.
 [*Eloquent Javascript*](http://eloquentjavascript.net/)  
 The best resource on learning javascript. It's less opinionated and more up to date than Crockford's *Javascript: The Good Parts.* It's online, it's free, what's not to like. Can't wait to get into it.
 
-### Learning and productivity tricks
+### Learning and Productivity Tricks
 
 [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/)  
 Have you ever had to spend an all nighter cramming information in your head trying to get ready for a midterm? Fun stuff right? The best part is afterwards you retain like 0% of the information, so you get to relearn everything again for your cumulative final! This course will help combat this. It let's you know how your brain works, so you can effectively learn and commit information to memory and avoid procrastination. Some of the techniques are time-consuming, but might as well get it right the first time rather than having to relearn it. It's a short course as well and they have them going on all the time.
