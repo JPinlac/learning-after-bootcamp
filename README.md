@@ -31,6 +31,8 @@ __TL;DR: Hopefully, you can use my succeses and mistakes to help guide your jour
     - [Dev Ops](#dev-ops)
   - [Log](#log)
 
+<br><br>
+
 ## Chronicles
 #### Why
 #### My Background
@@ -38,7 +40,6 @@ __TL;DR: Hopefully, you can use my succeses and mistakes to help guide your jour
 #### Learning After Bootcamp
 
 There seems to be a recurring theme with coding. __The more you learn the less you think you know.__ This was never more apparent than after the bootcamp. We learned about all the technologies we could use to make a decent web application, but working 40 hours a week and cramming all that info in about 10 weeks didn't allow for in-depth learning. There's a lot nuances and depth in all the code that we have to familiarize ourselves with. __So, it's back to the basics.__ 
-
 
 ##### HTML and CSS
 
@@ -48,6 +49,12 @@ I currently have a copy of [*HTML and CSS: Design and Build Websites by John Duc
 
 I'll also be going through the MOOC (massive open onlince course) [HTML5 Part 1: HTML5 Coding Essentials and Best Practices](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x).
 
+<br>
+
+##### Javascript
+
+<br><br><br>
+
 #### Projects
 
 ##### Portfolio Site
@@ -56,15 +63,21 @@ I currently do have a personal site that's basically a glorified resume site. I 
 
 After the bootcamp I now have projects that I can showcase in a portfolio. So let's upgrade my site. I plan on rebuilding the site entirely from scratch using responsive design techniques and best practices. I hope to keep it a mostly static site, with projects popping up in modal.
 
+<br>
+
 ##### bella beauty co site
 ###### In progress
 Two year ago I worked with my cousing in a small brick and mortar beauty supply in Detroit. I tasked myself with setting him up with a website. I used my VPS to host the site, but let me tell you. This was not a fun experience. I dived into to it using the trusty old LAMP stack and something I was familiar with, the Adobe creative suite. I had no idea how things worked at this time, and using Dreamweaver did not help me one bit. I copied a template and a really crappy site running that was constantly "Under Construction."
 
 This site will be a simple brochure site where I get to really test my design skills. I plan on using foundation as a CSS framework on this one. 
 
+<br>
+
 ##### Us20somethings Blog
 ###### Next Project
 I'm mostly excited for when I can start working on this project. This will be a full fledged content managements system designed by myself. I'll be using Postgres as a database. My reason's for this decision is [here.](#postgres)
+
+<br><br><br>
 
 ## Extras
 
@@ -81,6 +94,8 @@ This course is self-paced and looks to offer a good overview on programming conc
 [MIT 6.0.0.1x: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6#!)  
 This course starts January 13th, 2016. I also took this course last year and while I did earn a certificate, I did the bare minimum. Bootcamp was getting time consuming at the time and I wasn't able to delve into the harder concepts. I'm pretty excited about taking this course again. It's very algorithm heavy and covers basic computer science concepts loops all the way to recursion, data structures, Big-O complexity, and testing. I took EECS 280 at the University of Michigan and I'm pretty impressed on how much material and more is covered in this MITx course.
 
+<br><br>
+
 ### Book List
 
 [*HTML and CSS: Design and Build Websites by John Duckett*] (http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)  
@@ -88,6 +103,8 @@ Wonderfully illustrated book that's perfect for beginners. It's a quick read.
 
 [*Eloquent Javascript*](http://eloquentjavascript.net/)  
 The best resource on learning javascript. It's less opinionated and more up to date than Crockford's *Javascript: The Good Parts.* It's online, it's free, what's not to like. Can't wait to get into it.
+
+<br><br>
 
 ### Learning and Productivity Tricks
 
@@ -99,11 +116,16 @@ This page itself is partly inspired by some of the concepts they go over. Keepin
 **Bonus ** [Why Procrastinators Procratinate](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)  
 Let me preface with how amazing this blog is. I really recommend the articles on the Fermi Paradox, A.I., and his four part article on Elon Musk. Life changing stuff.
 
+<br><br>
+
 ## Tools and Technologies
 
 I'll be using this section to go over which tools and technologies I decided to learn and use. You can spend ages deciding on what text-editor or what database to use, so hopefully having my decision process here will help you save some time. 
 
 ### Technologies
+
+<br>
+
 ### Dev Environment
 
 **Operating System**  
@@ -114,16 +136,20 @@ I'm currently using sublime and it's pretty easy to get going with it. It's extr
 
 I plan on switching full time to vim. [Vim sounds magical] (http://www.norfolkwinters.com/vim-creep/). I currently know some basics and it helped me immensely when configuring my server and editing files in there. Which is a huge plus since all you have when working with a remote server is a command line interface and vim reigns supreme in this realm. Vim can also extend to the browser with some plugins. I'm using the Vimium extension for Chrome and I rarely have to use my mouse anymore which helped alleviate some symptoms of carpal tunnel syndroms.
 
+<br>
+
 ### Dev ops
 
 My server currently hosts all my sites and projects, including the bootcamp final project. The server is a dual core 256mb virtual private server from buyvm.net for $3.95 a month. It's completely unmanaged, altough the provider doesn't hesistate to help when time permits. This means you have to configure security like SSH yourself and all hosting.
 
 For hosting, all my sites are handled by nginx which is great for my static sites. Nginx also acts as a reverse proxy to Cheers, which uses pm2 to daemonize the Cheers node module.
 
+<br><br><br>
+
 ### Log
 12-22  
 Decided to read Duckett's html book and go throught the WC3 MOOC on html5.
 
 
-License  
+## License  
 Creative Commons Attribution License (do whatever, just attribute me) http://creativecommons.org/licenses/by/2.0/
