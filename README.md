@@ -32,7 +32,7 @@ __TL;DR: Hopefully, you can use my succeses and mistakes to help guide your jour
 #### BootCamp
 #### Learning after bootcamp
 
-There seems to be a recurring theme with coding. __The more you learn the less you think you know.__ This was never more apparent than with the bootcamp. We learned about all the technologies we could use to make a decent web application, but working 40 hours a week and cramming all that info in about 10 weeks didn't allow for in-depth learning. There's a lot nuances and depth in all the code that I have to familiarize myself with. __So, it's back to the basics.__ 
+There seems to be a recurring theme with coding. __The more you learn the less you think you know.__ This was never more apparent than after the bootcamp. We learned about all the technologies we could use to make a decent web application, but working 40 hours a week and cramming all that info in about 10 weeks didn't allow for in-depth learning. There's a lot nuances and depth in all the code that we have to familiarize ourselves with. __So, it's back to the basics.__ 
 
 
 ###### HTML/CSS
@@ -51,13 +51,13 @@ I plan on roughly following the guide that is here [Open Source Society](https:/
 Excellent course on web accesibility and html5 features by WC3. I completed a couple weeks of this before things were getting too intense during the bootcamp. Unfortunately, this course isn't active, but all all the information is available in the archive.
 
 [Harvard CS50x: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)  
-This course is self-paced and looks to offer a good overview on programming concepts. Enrollment starts on Jan 1st, 2016 so this is a good time to start.
+This course is self-paced and looks to offer a good overview on programming concepts. Enrollment starts on Jan 1st, 2016 if active engagement is your thing, so this is a good time to start.
 
 [MIT 6.0.0.1x: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6#!)  
 This course starts January 13th, 2016. I also took this course last year and while I did earn a certificate, I did the bare minimum. Bootcamp was getting time consuming at the time and I wasn't able to delve into the harder concepts. I'm pretty excited about taking this course again. It's very algorithm heavy and covers basic computer science concepts loops all the way to recursion, data structures, Big-O complexity, and testing. I took EECS 280 at the University of Michigan and I'm pretty impressed on how much material and more is covered in this MITx course.
 
 ### Log
-12-22
+12-22  
 Decided to read Duckett's html book and go throught the WC3 MOOC on html5.
 
 
