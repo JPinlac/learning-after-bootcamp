@@ -63,7 +63,7 @@ This course is self-paced and looks to offer a good overview on programming conc
 [MIT 6.0.0.1x: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6#!)  
 This course starts January 13th, 2016. I also took this course last year and while I did earn a certificate, I did the bare minimum. Bootcamp was getting time consuming at the time and I wasn't able to delve into the harder concepts. I'm pretty excited about taking this course again. It's very algorithm heavy and covers basic computer science concepts loops all the way to recursion, data structures, Big-O complexity, and testing. I took EECS 280 at the University of Michigan and I'm pretty impressed on how much material and more is covered in this MITx course.
 
-### Book List
+### Book list
 
 [*HTML and CSS: Design and Build Websites by John Duckett*] (http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)  
 Wonderfully illustrated book that's perfect for beginners. It's a quick read.
