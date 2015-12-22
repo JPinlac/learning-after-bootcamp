@@ -11,34 +11,37 @@ __TL;DR: Hopefully, you can use my succeses and mistakes to help guide your jour
   2. [My background](#my background)
   3. [Bootcamp](#bootcamp)
   4. [Learning after bootcamp](#learning after bootcamp)
+    - [HTML/CSS](##html/css)
+    - [Javascript](#javascript)
+    - [MEAN stack](#mean stack)
+    - [Design](#design)
   5. [Projects](#projects)
     - [Portfolio site](#portfolio site)
     - [bella beauty co. site](#bella beauty co. site)
     - [us20somethings blog](#us20somethings blog)
-- [Web Development](#web development)
-  - [HTML/CSS and Javascript](#html/css and javascript)
-  - [MEAN stack](#mean stack)
-  - [Design](#design)
 - [Extras](#extras)
   - [Book list](#book list)
   - [Productivity](#productivity)
   - [Tools and technologies](#tools and technologies)
   - [Dev environment](#dev environment)
   - [Dev ops](#dev ops)
-
+  - [Log](#log) 
 
 ## Chronicles
-###### Why
+#### Why
+#### My Background
+#### BootCamp
+#### Learning after bootcamp
 
+There seems to be a recurring theme with coding. __The more you learn the less you think you know.__ This was never more apparent than with the bootcamp. We learned about all the technologies we could use to make a decent web application, but working 40 hours a week and cramming all that info in about 10 weeks didn't allow for in-depth learning. There's a lot nuances in all the code that I have to familiarize myself with. __So, it's back to the basics.__ 
 
+*The format of the upcoming sections will be peculiar. It will be a living section with me explaining what I'm using to learn and highlighting some cool things I came across. In the future I hope to explain how each element corresponds within the bigger picture of a web application*
 
-### History
+###### HTML/CSS
 
-As of December 18th, I will have completed a part-time front end development bootcamp at Grand Circus in Detroit. The bootcamp covered so much material I couldn't help but feel a little lost. The limited time frame of about 10 weeks while working 40 hours a week doesn't allow much time for independent study. Am I able to scrounge up a basic web application? Yes. Is it pretty? No.
+First item the list, HTML and CSS. The basic building blocks of a website. You can make a very nice fully functioning website with just these tools. They've also come a very long way with the introduction of HTML5 and CSS3. There's cool things like more sematic markup and positioning with flexboxes. There's also a lot of things you should be aware of, such as web accesibility and making sure your page is properly formatted for SEO (search engine optimization). 
 
-Luckily, my circumstances we're a little more forgiving. My current job is pretty flexible about on the job learning.
-
-
+*My game plan for studying will roughly be at least two hours studying material or working on a personal project every weekday. At least an hour because it's easy to get caught up coding and lose track of time :smiley: I'll keep a log of all the time I spend on learning as well.*
 
 
 
