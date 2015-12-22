@@ -22,8 +22,8 @@ __TL;DR: Hopefully, you can use my succeses and mistakes to help guide your jour
     - [bella beauty co. site](#bella beauty co. site)
     - [us20somethings blog](#us20somethings blog)
 - [Extras](#extras)
-  - [Book list](#book list)
   - [Courses](#courses)
+  - [Book list](#book list)
   - [Learning and productivity tricks](#learning and productivity tricks)
   - [Log](#log)
 
@@ -44,6 +44,8 @@ I currently have a copy of [*HTML and CSS: Design and Build Websites by John Duc
 
 I'll also be going through the MOOC (massive open onlince course) [HTML5 Part 1: HTML5 Coding Essentials and Best Practices](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x).
 
+## Extras
+
 ### Courses
 
 I plan on roughly following the guide that is here [Open Source Society](https://github.com/open-source-society/computer-science) and supplementing with other materials than I think will be useful.
@@ -57,12 +59,20 @@ This course is self-paced and looks to offer a good overview on programming conc
 [MIT 6.0.0.1x: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6#!)  
 This course starts January 13th, 2016. I also took this course last year and while I did earn a certificate, I did the bare minimum. Bootcamp was getting time consuming at the time and I wasn't able to delve into the harder concepts. I'm pretty excited about taking this course again. It's very algorithm heavy and covers basic computer science concepts loops all the way to recursion, data structures, Big-O complexity, and testing. I took EECS 280 at the University of Michigan and I'm pretty impressed on how much material and more is covered in this MITx course.
 
+### Book List
+
+[*HTML and CSS: Design and Build Websites by John Duckett*] (http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189) 
+Wonderfully illustrated book that's perfect for beginners. It's a quick read.
+
+[Eloquent Javascript](http://eloquentjavascript.net/)  
+The best resource on learning javascript. It's less opinionated and more up to date than Crockford's *Javascript: The Good Parts.* It's online, it's free, what's not to like. Can't wait to get into it.
+
 ### Learning and productivity tricks
 
 [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/)  
-Have you ever had to spend an all nighter cramming information in your head trying to get ready for a midterm? Fun stuff right? The best part is afterwards you retain like 0% of the information, so you get to relearn everything again for your cumulative final! This course will help combat this. It let's you know how your brain works, so you can effectively learn and commit information to memory and avoid procrastination. Some of the techniques are time-consuming, but might as well get it right the first time rather than having to relearn it.
+Have you ever had to spend an all nighter cramming information in your head trying to get ready for a midterm? Fun stuff right? The best part is afterwards you retain like 0% of the information, so you get to relearn everything again for your cumulative final! This course will help combat this. It let's you know how your brain works, so you can effectively learn and commit information to memory and avoid procrastination. Some of the techniques are time-consuming, but might as well get it right the first time rather than having to relearn it. It's a short course as well and they have them going on all the time.
 
-*Bonus* [Why Procrastinators Procratinate](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)  
+**Bonus ** [Why Procrastinators Procratinate](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)  
 Let me preface with how amazing this blog is. I really recommend the articles on the Fermi Paradox, A.I., and his four part article on Elon Musk. Life changing stuff.
 
 ### Log
