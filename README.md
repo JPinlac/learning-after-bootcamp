@@ -9,8 +9,8 @@ __TL;DR: Hopefully, you can use my successes and mistakes to help guide your jou
 ## Table of contents
 
 - [Chronicles](#chronicles)
-  1. [Why](#why)
-  2. [My background](#my-background)
+  1. [My Programming Background](#my-programming-background)
+  2. [Why become a developer?](#why-become-a-developer-and-how)
   3. [Bootcamp](#bootcamp)
   4. [Learning after bootcamp](#learning-after-bootcamp)
     - [HTML and CSS](##html-and-css)
@@ -35,8 +35,24 @@ __TL;DR: Hopefully, you can use my successes and mistakes to help guide your jou
 <br><br>
 
 ## Chronicles
-#### Why
-#### My Background
+
+#### My Programming Background
+
+I ended up writing a mini biography for this section, but who want to read all that? So here's a quick synopsis.
+I've learned bits and pieces of programming throughout my life. Mostly more algorithm based programming like intro computer science courses. There's a little bit of C++ here, a little bit of Python there. Some Matlab in calculus and linear algebra courses, some Excel simulations. Never anything that amounted to a full blown application, just small tasks here and there. 
+
+In my current job I get to write SQL queries for a few different databases, I also write some involved Excel macros for reporting. Excel is scary. It's like the duck tape of the business world. It can solve almost any problem, but that doesn't mean it should be used and the things I've done with it would make you shudder.
+
+During the last year I started getting more serious about my future. I'm looking to build a skillset that will allow me to support my family with the enough flexibility to personally help raise my future children. I came up with a couple options, become an entrepreneur or become a developer?The interesting thing about those two options are that they aren't mutually exclusive. I could become both, but becoming an entrepreneur take capital. I don't have enough capital to start a business nor any skills that would make starting a business to become any cheaper. Well there goes that idea, which leaves me with becoming a developer.
+
+#### Why become a developer and how?
+
+In all honesty I would much rather be a developer than an entrepreneur. I'm actually pretty decent at programming, and I enjoy it. The thrill of getting lost in code and finally solving that program is one the best feelings in the world. This great and all, but let's look at the numbers.
+
+
+
+
+
 #### BootCamp
 #### Learning After Bootcamp
 
