@@ -49,7 +49,9 @@ During the last year I started getting more serious about my future. I'm looking
 
 In all honesty I would much rather be a developer than an entrepreneur. I'm actually pretty decent at programming, and I enjoy it. The thrill of getting lost in code and finally solving that program is one the best feelings in the world. This great and all, but let's look at the numbers.
 
-
+http://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm
+http://stackoverflow.com/research/developer-survey-2015
+https://github.com/blog/2047-language-trends-on-github
 
 
 
