@@ -171,8 +171,7 @@ For hosting, all my sites are handled by nginx which is great for my static site
 <br><br><br>
 
 ### Log
-12-22 - Decided to read Duckett's html book and go through the WC3 MOOC on html5.
-12-23 - Fun times at work writing SQL queries and working with the wonderful language of visual basic for applications.
+
 
 ### License  
 Creative Commons Attribution License (do whatever, just attribute me) http://creativecommons.org/licenses/by/2.0/
