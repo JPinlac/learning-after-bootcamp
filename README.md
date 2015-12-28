@@ -47,15 +47,20 @@ During the last year I started getting more serious about my future. I'm looking
 
 #### Why become a developer and how?
 
-In all honesty I would much rather be a developer than an entrepreneur. I'm actually pretty decent at programming, and I enjoy it. The thrill of getting lost in code and finally solving that program is one the best feelings in the world. This great and all, but let's look at the numbers.
+In all honesty I would much rather be a developer than an entrepreneur. I'm actually pretty decent at programming, and I enjoy it. The thrill of getting lost in code and finally solving that program is one the best feelings in the world. Also, being able to create something is a skill that will never be useless. This great and all, but let's look at the numbers.
 
-http://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm
-http://stackoverflow.com/research/developer-survey-2015
-https://github.com/blog/2047-language-trends-on-github
+According to the [Bureau of Labor Statistics](http://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm), the median pay of software developers is $98,000 for 2014 with an expected growth of 17% from 2014 to 2024 with is much faster than average. Those numbers looks exceptionally good to me. Good enough that I'm constantly kicking myself in the ass because I didn't start seriously programming sooner.
 
+This site, unfortunately also mentions that software developers commonly hold bachelor degrees. Bachelor degrees are outrageously expensive. Heck I'm already 50k deep in student debt. but before you get discouraged, let's check out this wonderful [developer survey on stackoverflow] (http://stackoverflow.com/research/developer-survey-2015). The most interesting statistic here is that 41.8% of developers are self-taught. This is pretty crazy, you can have a real big boy job without having to spend tens of thousands on a college education. Some other important tidbits, 29% of developers work remotely at least part-time. In fact full-time remote workers in the United States make 13% more than the average developer. This sounds perfect for raising some mini-me's in the future. 
 
+So you want to become a developer now, but how do we go about that? There's a few approaches available online that are free and extremely comprehensive. One that I recommend is [Free Code Camp](http://www.freecodecamp.com/). It's a program that has up to 900 hours of course work and allows for working with a non-profit to test your skills and create an actual website. Something similar is [The Odin Project](http://www.theodinproject.com/). The difference being is the tech stack they both use, or more simply the programming languages they use. Free code camp uses the MEAN stack which is all Javascript based and the odin project uses Ruby on Rails. In regards to front-end development they're both still similar, the only difference is the backend systems you'll be using. You will still need to know html, css, and javascript for both. I went with the MEAN stack, [here](https://github.com/blog/2047-language-trends-on-github) and [here](http://www.indeed.com/jobtrends?q=%22ruby%22%2C+%22javascript%22&l=) you can see Javascript is gaining on popularity over Ruby and other languages.
+
+Other possible routes are simply just making things and relying on google and stackoverflow to teach you the solutions. I suffer from too much blank page syndrome and discipline to make this approach succeed. I personally went with joining a bootcamp. I find learning from a teacher who can teach me best practices and tools of the trades to be valuable. Another thing to note, is the networking oppurtunies a bootcamp has within their area. 
 
 #### BootCamp
+
+I got lucky in finding a bootcamp. I wanted to join a front-end specific camp using the MEAN stack. I wasn't willing to relocate to another state for a few months, which would require me quitting my job. I'm also specifically looking for a job here in Detroit. Luckily there was a relatively new bootcamp in Detroit that just began offering a front-end bootcamp, and even better a part-time offering! 
+
 #### Learning After Bootcamp
 
 There seems to be a recurring theme with coding. __The more you learn the less you think you know.__ This was never more apparent than after the bootcamp. We learned about all the technologies we could use to make a decent web application, but working 40 hours a week and cramming all that info in about 10 weeks didn't allow for in-depth learning. There's a lot nuances and depth in all the code that we have to familiarize ourselves with. __So, it's back to the basics.__ 
