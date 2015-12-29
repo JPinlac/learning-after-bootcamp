@@ -65,6 +65,8 @@ I got lucky in finding a bootcamp. I wanted to join a front-end specific camp us
 
 There seems to be a recurring theme with coding. __The more you learn the less you think you know.__ This was never more apparent than after the bootcamp. We learned about all the technologies we could use to make a decent web application, but working 40 hours a week and cramming all that info in about 10 weeks didn't allow for in-depth learning. There's a lot nuances and depth in all the code that we have to familiarize ourselves with. __So, it's back to the basics.__ 
 
+I'll also be doing daily programming challenges to keep my coding skills sharp. On the 28th I started the first day of [Advent of Code](http://www.adventofcode.com), you can follow my progress on my [log](#log) and [github](https://github.com/JPinlac/daily-programming-challenges).
+
 ##### HTML and CSS
 
 HTML and CSS, the basic building blocks of a website. You can make a very nice fully functioning website with just these tools. They've also come a very long way with the introduction of HTML5 and CSS3. There's cool things like more sematic markup and positioning with flexboxes. There's also a lot of things you should be aware of, such as web accessibility  and making sure your page is properly formatted for SEO (search engine optimization). 
@@ -171,7 +173,8 @@ For hosting, all my sites are handled by nginx which is great for my static site
 <br><br><br>
 
 ### Log
-
+12/28/2015 - Finished day 1 of Advent of code. Note: Be wary of using for in loops on anything other than an object. That method is meant to specifically iterate through object attributes in no particular order, which can cause errors when looping through arrays or strings.
+12/29/2015 - Finished day 2 of AOC. Note: Javascript only accepts newlines using '/n', so you have to do some creative formatting when you try to use multi-line text from the internet. Javascript's sort method uses strings by default, use a [compare function](http://www.w3schools.com/jsref/jsref_sort.asp) to sort numbers.
 
 ### License  
 Creative Commons Attribution License (do whatever, just attribute me) http://creativecommons.org/licenses/by/2.0/
