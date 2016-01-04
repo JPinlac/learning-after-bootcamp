@@ -134,6 +134,8 @@ The best resource on learning javascript. It's less opinionated and more up to d
 
 ### Learning and Productivity Tricks
 
+The most important tip I can give you is very simple. It's also the one thing I struggle with the most. *Just build something!* Don't sweat all the details and just create something.  
+
 [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/)  
 Have you ever had to spend an all nighter cramming information in your head trying to get ready for a midterm? Fun stuff right? The best part is afterwards you retain like 0% of the information, so you get to relearn everything again for your cumulative final! This course will help combat this. It lets you know how your brain works, so you can effectively learn and commit information to memory and avoid procrastination. Some of the techniques are time-consuming, but might as well get it right the first time rather than having to relearn it. It's a short course as well and they have them going on all the time.
 
