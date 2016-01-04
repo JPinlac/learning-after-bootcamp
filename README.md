@@ -75,6 +75,8 @@ I currently have a copy of [*HTML and CSS: Design and Build Websites by John Duc
 
 I'll also be going through the MOOC (massive open online course) [HTML5 Part 1: HTML5 Coding Essentials and Best Practices](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x).
 
+Another course I'm going through is [Responsive Web Design](https://www.coursera.org/learn/responsive-web-design/). It looks like a quick course on responsive web design which will be an important concept to learn. I've read some of Ethan Marcotte's book on responsive web design (the original book on responsive web design) but it's already a few years old and an updated class looks to be useful.
+
 <br>
 
 ##### Javascript
