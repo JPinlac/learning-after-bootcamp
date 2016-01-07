@@ -178,6 +178,7 @@ For hosting, all my sites are handled by nginx which is great for my static site
 
 ### Log
 
+1/7/2016 - I've been working on the portfolio site for the last couple days. I decided to use the html5boilerplate to kickstart my project. Specifically their responsive template. A few things were a miss, most notably css styles that weren't targetting anything. The boilerplate is ancient, circa 2012, so I guess it's not too suprising that it's broken. In my quest to wrap my head around boilerplate I did come across some useful concepts such as progressive enhancement and conditional classes for supporting older versions of IE. I also don't want to use bootstrap to avoid having a similar looking portfolio than 90% of all other developers. All this leads me to my new game plan. Just using a css reset specifically normalize.css and do everything from scratch.
 
 ### License  
 Creative Commons Attribution License (do whatever, just attribute me) http://creativecommons.org/licenses/by/2.0/
