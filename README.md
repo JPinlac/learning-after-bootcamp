@@ -77,6 +77,7 @@ I'll also be going through the MOOC (massive open online course) [HTML5 Part 1: 
 
 Another course I'm going through is [Responsive Web Design](https://www.coursera.org/learn/responsive-web-design/). It looks like a quick course on responsive web design which will be an important concept to learn. I've read some of Ethan Marcotte's book on responsive web design (the original book on responsive web design) but it's already a few years old and an updated class looks to be useful.
 
+The most difficult and annoying things in css is horizontally and vertically aligning elements. It can get really messy, especially with vertical aligning. To save you from countless of headaches check out [this game](http://www.flexboxfroggy.com). It's a simple game that teaches you about the flexbox positioning system. It's straightforward and seems like common sense, which is how it should be. The old ways of positioning are a nightmare, and flexbox also makes fluid responsive layouts relatively easy to implement.
 <br>
 
 ##### Javascript
