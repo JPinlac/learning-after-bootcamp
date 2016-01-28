@@ -175,6 +175,8 @@ My server currently hosts all my sites and projects, including the bootcamp fina
 
 For hosting, all my sites are handled by nginx which is great for my static sites. Nginx also acts as a reverse proxy to Cheers, which uses pm2 to daemonize the Cheers node module.
 
+Another important thing to support for your sites is SSL encryption. It's increasingly important with google giving a page ranking boost to encrypted sites. Thankfully Mozilla allows us to acquire SSL certs for free with Let's Encrypt. [Here's a good guide to get that setup on a nginx vps like I have setup](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04)
+
 <br><br><br>
 
 ### Log
