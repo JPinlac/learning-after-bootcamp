@@ -89,10 +89,12 @@ My updated portfolio site features fully responsive design based on flexbox. My 
 #### Projects
 
 ##### Portfolio Site
-###### In progress http://jonathan.pinlac.net
+###### Finished http://jonathan.pinlac.net
 I currently do have a personal site that's basically a glorified resume site. I made it before the bootcamp (September 2015) as part of the pre-work. I used the Freelancer bootstrap template and filled in the blanks. Simple stuff.
 
 After the bootcamp I now have projects that I can showcase in a portfolio. So let's upgrade my site. I plan on rebuilding the site entirely from scratch using responsive design techniques and best practices. I hope to keep it a mostly static site, with projects popping up in modal. I might add a little html5 interactive game or something in there too.
+
+*Update 2/9/2016 - Portfolio site finished. Features fully responsive design from scratch focused on design break points. Also has some interesting animations and transitions.
 
 <br>
 
@@ -184,6 +186,8 @@ Another important thing to support for your sites is SSL encryption. It's increa
 ### Log
 
 1/7/2016 - I've been working on the portfolio site for the last couple days. I decided to use the html5boilerplate to kickstart my project. Specifically their responsive template. A few things were a miss, most notably css styles that weren't targetting anything. The boilerplate is ancient, circa 2012, so I guess it's not too suprising that it's broken. In my quest to wrap my head around boilerplate I did come across some useful concepts such as progressive enhancement and conditional classes for supporting older versions of IE. I also don't want to use bootstrap to avoid having a similar looking portfolio than 90% of all other developers. All this leads me to my new game plan. Just using a css reset specifically normalize.css and do everything from scratch.
+
+2/9/2016 - It's been a while since the last update. Finished portfolio site, details are updated on the html/css section and project section. Ended up going through multiple designs of the site until I found one I liked. I started reading Eloquent Javascript and the completeness of the book is impressive. Also, started the MITx course again to tackle things like recursion and Big O notation.
 
 ### License  
 Creative Commons Attribution License (do whatever, just attribute me) http://creativecommons.org/licenses/by/2.0/
