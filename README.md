@@ -189,5 +189,7 @@ Another important thing to support for your sites is SSL encryption. It's increa
 
 2/9/2016 - It's been a while since the last update. Finished portfolio site, details are updated on the html/css section and project section. Ended up going through multiple designs of the site until I found one I liked. I started reading Eloquent Javascript and the completeness of the book is impressive. Also, started the MITx course again to tackle things like recursion and Big O notation.
 
+2/10/2016 - Ran page and server optimizations such as autoprefixer, minifying assets, configuring gzip compression.
+
 ### License  
 Creative Commons Attribution License (do whatever, just attribute me) http://creativecommons.org/licenses/by/2.0/
