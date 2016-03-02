@@ -166,10 +166,19 @@ I'll be using this section to go over which tools and technologies I decided to 
 **Operating System**  
 My environment is odd. At work I use Windows 8. My laptop has Windows 10 and Linux Mint 17.2 on it. Throughout the bootcamp I strictly used linux. I decided to force myself to learn linux since that's what most web servers will be running, so might as well get familiar with it.
 
+2-27-16 I decided to try a fresh install of Ubunto 15.10 due to hardware issues on Mint and me not really knowing what I was doing and installing programs willy nilly. Here's also a list of configurations I need to make on fresh linux installs for reference. 
+
+1. Install node using [a package manager]{https://nodejs.org/en/download/package-manager/)
+2. Switch capslock key to Ctrl [(instructions)](http://askubuntu.com/questions/462021/how-do-i-turn-caps-lock-into-an-extra-control-key)
+3. Install chrome
+4. Install Webstorm
+
 **Text Editor**  
 I'm currently using sublime and it's pretty easy to get going with it. It's extremely customizable and is cross platform on all operating systems. This made working at work and at home pretty simple.
 
 I plan on switching full time to vim. [Vim sounds magical] (http://www.norfolkwinters.com/vim-creep/). I currently know some basics and it helped me immensely when configuring my server and editing files in there. Which is a huge plus since all you have when working with a remote server is a command line interface and vim reigns supreme in this realm. Vim can also extend to the browser with some plugins. I'm using the Vimium extension for Chrome and I rarely have to use my mouse anymore which helped alleviate some symptoms of carpal tunnel syndrome.
+
+2-18-16 I decided to change gears all together and start coding using an IDE, Webstorm in particular. The features on it are amazing and I've barely begun to scratch the surface. The IDE is unfortunately not free, but you can get a free year subscription with an edu email address. One of the best things about Webstorm is its very good Vim plugin. My biggest problem with sublime and vim was that although they are very good text editors it takes a lot of work to configure them to incorporate all the features of a IDE like Webstorm. So now I have a full fledged IDE and also get to sharpen my Vim skills.
 
 <br>
 
